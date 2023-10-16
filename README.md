@@ -10,8 +10,6 @@ I am the founder of Falarium community servers.
 I started with a minecraft server way back in 2015 the a Just Cause 3 server in 2017, and now multiple Nanos World server in 2021.
 Now, Falarium is more like a mix of a small team working on creating gamemodes on Nanos World and a community hosting some servers.
 
-<a href="https://falarium.fr" target="_blank"><img src="https://falaxir.fr/images/falariumlogoforum.png"/></a>
-
 ### Programming Languages
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.icons8.com/color/40/c-programming.png" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://img.icons8.com/color/40/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/></a>
@@ -27,3 +25,7 @@ Now, Falarium is more like a mix of a small team working on creating gamemodes o
 - Twitter: https://twitter.com/Falaxir
 - Youtube: https://www.youtube.com/channel/UC9icaU9KX4_7y_vlEqgC-6Q
 - Twitch: https://www.twitch.tv/falaxir
+
+# Support me by Buying Me A Coffee
+
+[!["Support me by Buying Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/falaxir)
