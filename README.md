@@ -1,7 +1,7 @@
 <h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 - 𝓑𝓲𝓮𝓿𝓮𝓷𝓾𝓮</h1>
 <h3 align="center">Falaxir is going to tell you a story</h3>
 
-I am currently a third year University student and i study for the diploma: Expert in information technology.
+I am currently a fifth year University student and i study for the diploma: Expert in information technology.
 I use this account to work on my personal projects, it can be simple as developing a website or complex as editing a linux kernel.
 
 ### Falarium
